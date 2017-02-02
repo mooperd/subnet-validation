@@ -16,7 +16,11 @@
 			"name": "bob",
 			"cidr": "10.141.3.0/28",
 			"subnets": []
-		}, {
+		},{
+                        "name": "bob-2",
+                        "cidr": "10.141.3.0/25",
+                        "subnets": []
+                }, {
 			"name": "mungo",
 			"cidr": "10.141.3.16/28",
 			"subnets": []
